@@ -90,10 +90,10 @@ export default function CryptoDashboard({
         <div>
           <div className="bg-blue-500 text-white rounded-lg shadow-lg p-6">
             <h2 className="text-2xl font-bold mb-4">
-              Get started with a coin on KoinX
+              Get started with a coin on AryanX
             </h2>
             <p className="mb-4">
-              With our range of features that you can equip for free, KoinX allows you to be more educated and aware of your tax reports.
+              With our range of features that you can equip for free, AryanX allows you to be more educated and aware of your tax reports.
             </p>
             <div className="mb-6">
                 <img src="https://imgs.search.brave.com/x0OFc0kx-SN91YG39LzkxsZpEaVeKC8eGsAleH982EU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YmFua3JhdGUuY29t/LzIwMjEvMDgvMjUx/MTEzMzIvR2V0dHlJ/bWFnZXMtMTAxMjAz/NjYzMi5qcGc" alt="Crypto Portfolio" className="rounded-lg" />

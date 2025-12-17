@@ -12,7 +12,7 @@ const Navbar: React.FC = () => {
     <nav className="w-full flex items-center justify-between px-8 py-4 bg-white text-black shadow-md">
       <div className="text-2xl font-bold">
         <a href="/" className="text-blue-400">
-          Koin
+          AryanX
         </a>
         <span className="text-orange-400">X</span>
         <sup>TM</sup>
